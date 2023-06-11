@@ -248,13 +248,13 @@ html {
 
 @media (max-width: 600px) {
     .hero h1 {
-        font-size: 78px;
+        font-size: 70px;
         line-height: 4.8rem;
     }
 
     .hero-img {
         width: 800px;
-        bottom: 20%;
+        bottom: 18%;
         left: 10px;
     }
 }
