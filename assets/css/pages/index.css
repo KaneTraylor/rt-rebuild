@@ -249,7 +249,7 @@ html {
 @media (max-width: 600px) {
     .hero h1 {
         font-size: 78px;
-        line-height: normal;
+        line-height: 4.2rem;
     }
 
     .hero-img {
