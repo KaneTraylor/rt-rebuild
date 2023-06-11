@@ -408,7 +408,7 @@ html {
 }
 
 .ac-image {
-    height: 600px;
+    height: 650px;
     position: absolute;
     top: 30%;
 }
@@ -433,7 +433,7 @@ html {
     }
 
     .ac-image {
-        height: 420px;
+        height: 520px;
         top: 41%;
         margin-left: 88px;
     }
@@ -1337,7 +1337,7 @@ html {
 
 /* <!-- ====================== Mobile CTA Satrt ===================== --> */
 .mobile-space {
-    height: 106px;
+    height: 55px;
     width: 100%;
     background-color: #000000;
     display: none;
